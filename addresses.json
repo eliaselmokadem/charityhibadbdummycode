@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "streetname": "Grote Markt",
+      "housenumber": 1,
+      "city": "Mechelen",
+      "postcode": 2800
+    },
+    {
+      "id": 2,
+      "streetname": "Hanswijkstraat",
+      "housenumber": 23,
+      "city": "Mechelen",
+      "postcode": 2800
+    },
+    {
+      "id": 3,
+      "streetname": "Adegemstraat",
+      "housenumber": 68,
+      "city": "Mechelen",
+      "postcode": 2800
+    },
+    {
+      "id": 4,
+      "streetname": "Korenmarkt",
+      "housenumber": 17,
+      "city": "Mechelen",
+      "postcode": 2800
+    },
+    {
+      "id": 5,
+      "streetname": "Onze-Lieve-Vrouwestraat",
+      "housenumber": 51,
+      "city": "Mechelen",
+      "postcode": 2800
+    }
+  ]
+  
